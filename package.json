@@ -1,0 +1,15 @@
+{
+  "name": "javascript-assignment",
+  "version": "1.0.0",
+  "description": "Javascript assignment to filter clicks data",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "solution": "node index.js"
+  },
+  "dependencies": {
+    "mocha": "^7.0.1"
+  },
+  "author": "Vinay Hans",
+  "license": "ISC"
+}
