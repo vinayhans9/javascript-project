@@ -1,9 +1,3 @@
-# solution_Vinay_Hans
-### Test Assessment
-
-Have made use of node, npm and javascript while creating this solution.
-
-### Requirements
 Given an array of clicks, return the subset of clicks where:
 
 1. For each IP within each one hour period, only the most expensive click is placed into the result set.
